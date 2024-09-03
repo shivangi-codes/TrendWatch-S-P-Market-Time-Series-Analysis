@@ -8,7 +8,6 @@ Context:
 
 Stock market data can be interesting to analyze and as a further incentive, strong predictive models can have large financial payoffs. The amount of economic data on the web is seemingly endless. A large and well-structured dataset on a wide array of companies can be hard to come by. Here I provide a dataset with historical stock prices (last 5 years) for all companies currently on the S&P 500 index.
 
-
 The data is presented in a couple of formats to suit different individual's needs or computational limitations. I have included files containing 5 years of stock data (in the all_stocks_5yr.csv and corresponding folder).
 
 
